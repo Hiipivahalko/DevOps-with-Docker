@@ -1,0 +1,1 @@
+docker run --rm -p 8000:8000 -v /Users/osiipola/o/tkt/courses/DevOps-with-Docker/part1/backend-example-docker/logs.txt:/app/logs.txt  backki
